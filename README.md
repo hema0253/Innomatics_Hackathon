@@ -47,22 +47,12 @@ Analyze and visualize food delivery trends in Bangalore using real-world Zomato 
 ## 📁 Files Included
 
 - `Task.ipynb` – Main notebook with analysis and visualizations
-- `restaurant_density.html` *(optional)* – Interactive map of all restaurants
-- `italian_restaurants.html` *(optional)* – Italian cuisine map
-- **Note:** HTML files not uploaded due to GitHub size limits. You can generate them by running the notebook.
 
 ---
 
 ## 🙌 Acknowledgements
 
 Thanks to **[Innomatics Research Labs](https://www.linkedin.com/company/innomatics-research-labs/)** for organizing this data-driven hackathon and giving us the opportunity to showcase real-world data science skills.
-
----
-
-## 🔗 Submission
-
-Link to GitHub Repo:  
-**[Paste your repo link here]**
 
 ---
 
